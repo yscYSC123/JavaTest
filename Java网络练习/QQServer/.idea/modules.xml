@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -5,4 +6,13 @@
       <module fileurl="file://$PROJECT_DIR$/QQServer.iml" filepath="$PROJECT_DIR$/QQServer.iml" />
     </modules>
   </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QQServer.iml" filepath="$PROJECT_DIR$/QQServer.iml" />
+    </modules>
+  </component>
+>>>>>>> 1ea652c4390070c06e33a6875f4c2e67f53bfd38
 </project>
